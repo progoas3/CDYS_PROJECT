@@ -17,11 +17,11 @@ El flujo de datos se divide en las siguientes etapas:
 ```plaintext
 project/
 ├── data/                   # Almacenamiento de capas (Parquet/CSV)
-│   ├── raw_input/          # Fuente maestra (.csv)
-│   ├── landing/            # Zona de llegada de batches
-│   ├── bronze/             # Capa de datos crudos persistidos
-│   ├── silver/             # Capa de datos limpios y válidos
-│   └── gold/               # Capa de productos de datos enriquecidos
+│   ├── raw_input/          # Fuente maestra (.csv) 
+│   ├── landing/            # Zona de llegada de batches (Se crea automaticamente)
+│   ├── bronze/             # Capa de datos crudos persistidos (Se crea automaticamente)
+│   ├── silver/             # Capa de datos limpios y válidos (Se crea automaticamente)
+│   └── gold/               # Capa de productos de datos enriquecidos (Se crea automaticamente)
 ├── scripts/                # Lógica de procesamiento PySpark
 │   ├── simulate_streaming.py
 │   ├── bronze.py
@@ -29,7 +29,7 @@ project/
 │   ├── gold.py
 │   └── report.py
 ├── main.py                 # Orquestador del pipeline
-└── report_final.html       # Resultado final visual
+└── report_final.html       # Resultado final visual (Se crea automaticamente)
 ```
 ## 🚀 Instrucciones de Ejecución
 Para un funcionamiento óptimo en Windows y para simular un entorno real de streaming, se recomienda ejecutar el sistema en dos terminales:

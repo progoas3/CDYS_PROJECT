@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017820,2024-07-28 00:24:11,2024-07-28,LN101799,CU901799,DISBURSEMENT,0,19768917.0,386877.71,19768917.0,0.1914,24,0,ACTIVE,ONLINE,ANTIOQUIA,MICROCREDITO

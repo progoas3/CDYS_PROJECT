@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000004945,2024-07-15 01:01:43,2024-07-15,LN100495,CU900495,CHARGEOFF,5,10819691.0,145885.5,10090263.5,0.2045,36,118,CHARGEOFF,ONLINE,ATLANTICO,LIBRANZA

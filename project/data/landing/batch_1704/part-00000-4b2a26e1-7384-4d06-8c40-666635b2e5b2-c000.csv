@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000015605,2024-03-26 07:26:36,2024-03-26,LN101570,CU901570,DISBURSEMENT,7,5239338.0,170802.42,4043721.06,0.126,12,50,DELINQUENT,ONLINE,BOGOTA,VEHICULO

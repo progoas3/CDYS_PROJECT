@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000008213,2026-01-31 04:01:44,2026-01-31,LN100823,CU900823,DELINQUENCY,1,19471831.0,396446.48,19075384.52,0.2072,24,12,DELINQUENT,ONLINE,ANTIOQUIA,VEHICULO

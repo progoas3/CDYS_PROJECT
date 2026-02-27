@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017526,2024-08-15 22:44:28,2024-08-16,LN101770,CU901770,PAYMENT,2,28950395.0,220746.76,28508901.48,0.105,48,0,ACTIVE,APP,CALDAS,LIBRANZA

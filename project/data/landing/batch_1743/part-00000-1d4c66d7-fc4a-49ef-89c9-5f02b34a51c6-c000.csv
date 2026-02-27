@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000006034,2025-10-21 04:38:03,2025-10-21,LN100602,CU900602,PAYMENT,4,17055693.0,207795.19,16224512.24,0.1655,36,12,DELINQUENT,ONLINE,VALLE,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000014442,2025-10-07 19:29:15,2025-10-08,LN101454,CU901454,DISBURSEMENT,0,12691294.0,242213.35,12691294.0,0.1817,24,0,ACTIVE,ONLINE,BOLIVAR,MICROCREDITO
