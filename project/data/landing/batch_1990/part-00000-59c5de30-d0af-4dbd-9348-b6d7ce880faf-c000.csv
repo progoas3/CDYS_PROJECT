@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000001306,2024-12-25 22:28:00,2024-12-25,LN100133,CU900133,DISBURSEMENT,0,14611172.0,335837.79,14611172.0,0.2597,24,0,ACTIVE,OFFLINE,VALLE,CONSUMO

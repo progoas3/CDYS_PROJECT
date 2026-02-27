@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013331,2025-02-05 07:57:33,2025-02-05,LN101339,CU901339,DELINQUENCY,3,25801143.0,1173435.98,22280835.06,0.2548,12,40,DELINQUENT,ONLINE,CUNDINAMARCA,LIBRANZA

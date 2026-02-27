@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013274,2025-03-04 19:30:34,2025-03-04,LN101333,CU901333,PAYMENT,7,4361595.0,465382.19,1103919.67,0.3335,6,0,ACTIVE,ONLINE,BOGOTA,CONSUMO

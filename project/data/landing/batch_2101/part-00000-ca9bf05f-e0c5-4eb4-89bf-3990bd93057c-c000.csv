@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000016927,2023-06-09 23:53:10,2023-06-09,LN101705,CU901705,PAYMENT,3,29982096.0,959027.31,27105014.07,0.2798,18,0,ACTIVE,OFFLINE,ANTIOQUIA,LIBRANZA

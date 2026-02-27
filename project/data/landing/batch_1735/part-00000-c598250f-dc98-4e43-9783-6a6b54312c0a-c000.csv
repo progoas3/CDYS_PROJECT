@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000003933,2025-09-05 23:40:44,2025-09-05,LN100393,CU900393,PAYMENT,11,21136574.0,2043483.97,0.0,0.2834,6,0,ACTIVE,APP,ATLANTICO,VEHICULO

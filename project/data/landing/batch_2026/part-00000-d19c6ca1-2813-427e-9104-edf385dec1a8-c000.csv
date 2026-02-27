@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000019811,2024-09-22 19:48:21,,LN101998,CU901998,PAYMENT,5,4944836.0,50000.0,4694836.0,0.0855,36,0,ACTIVE,OFFLINE,SANTANDER,LIBRANZA

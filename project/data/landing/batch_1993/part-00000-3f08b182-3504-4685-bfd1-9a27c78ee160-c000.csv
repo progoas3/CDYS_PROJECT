@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000009542,2023-07-21 17:36:57,,LN100960,CU900960,DISBURSEMENT,0,7835311.0,85535.48,7835311.0,0.1275,36,0,ACTIVE,AGENTE,CUNDINAMARCA,LIBRANZA

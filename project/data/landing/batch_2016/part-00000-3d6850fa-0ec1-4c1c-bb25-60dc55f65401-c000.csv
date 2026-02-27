@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000006879,2026-06-05 03:27:10,2026-06-05,LN100688,CU900688,PAYMENT,10,3526101.0,117654.24,2349558.6,0.3005,18,0,ACTIVE,OFFLINE,VALLE,MICROCREDITO

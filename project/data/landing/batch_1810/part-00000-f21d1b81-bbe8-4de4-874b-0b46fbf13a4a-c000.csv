@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000012439,2024-02-06 00:47:04,2024-02-06,LN101250,CU901250,PAYMENT,7,27574787.0,700537.46,0.0,0.3081,24,0,ACTIVE,AGENTE,CUNDINAMARCA,VEHICULO

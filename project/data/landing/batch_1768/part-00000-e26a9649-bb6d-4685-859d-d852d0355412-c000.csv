@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005432,2024-03-05 07:03:21,2024-03-06,LN100545,CU900545,DELINQUENCY,0,10627805.0,258627.63,10627805.0,0.2867,24,44,DELINQUENT,ONLINE,VALLE,VEHICULO

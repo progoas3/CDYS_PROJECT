@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000008266,2025-02-25 00:01:15,2025-02-25,LN100827,CU900827,DISBURSEMENT,7,13468122.0,396860.66,10690097.38,0.242,18,34,DELINQUENT,OFFLINE,BOGOTA,CONSUMO

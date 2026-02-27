@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013939,2026-02-12 06:38:38,2026-02-13,LN101400,CU901400,PAYMENT,10,16249836.0,563760.98,10612226.2,0.3204,18,0,ACTIVE,AGENTE,NARINO,MICROCREDITO

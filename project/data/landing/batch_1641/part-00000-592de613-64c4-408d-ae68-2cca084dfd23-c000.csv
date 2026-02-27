@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000004415,2024-09-02 12:54:59,2024-09-02,LN100441,CU900441,PAYMENT,5,18886839.0,700323.99,15385219.05,0.1708,12,0,ACTIVE,APP,RISARALDA,MICROCREDITO

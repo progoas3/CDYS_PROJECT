@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013181,2023-11-11 18:04:13,2023-11-11,LN101324,CU901324,DISBURSEMENT,0,14122194.0,1462211.97,14122194.0,0.3177,6,0,ACTIVE,AGENTE,ATLANTICO,CONSUMO

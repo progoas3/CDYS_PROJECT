@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000009507,2025-03-25 02:52:43,2025-03-25,LN100957,CU900957,DISBURSEMENT,0,17921661.0,921352.59,17921661.0,0.3141,12,0,ACTIVE,OFFLINE,ANTIOQUIA,VEHICULO

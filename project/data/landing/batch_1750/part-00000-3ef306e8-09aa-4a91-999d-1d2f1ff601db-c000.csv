@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000010613,2024-08-26 09:58:02,,LN101067,CU901067,PAYMENT,7,9167526.0,97878.62,8482375.66,0.1203,36,27,DELINQUENT,OFFLINE,BOLIVAR,CONSUMO

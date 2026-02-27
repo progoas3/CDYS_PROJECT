@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000004523,2025-12-12 08:37:01,2025-12-12,LN100453,CU900453,PAYMENT,4,24245885.0,510860.8,22202441.8,0.2214,24,0,ACTIVE,OFFLINE,ATLANTICO,CONSUMO

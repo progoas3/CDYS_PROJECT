@@ -22,8 +22,8 @@ base_project_path = Path(__file__).resolve().parent.parent
 data_path = os.path.join(base_project_path, "data", "landing")
 bronze_path = os.path.join(base_project_path, "data", "bronze")
 
-print(f"Reading from: {data_path}")
-print(f"Writing to: {bronze_path}")
+print(f"Leyendo: {data_path}")
+print(f"Escrbiendo: {bronze_path}")
 
 # 3. Lógica para evitar duplicados (Idempotencia)
 batches_procesados = []

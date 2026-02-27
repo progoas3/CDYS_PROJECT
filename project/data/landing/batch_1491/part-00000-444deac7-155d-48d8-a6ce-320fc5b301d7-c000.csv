@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000006683,2025-11-20 14:33:51,2025-11-20,LN100668,CU900668,DELINQUENCY,5,15787889.0,607360.09,12751088.55,0.1847,12,43,DELINQUENT,AGENTE,SANTANDER,CONSUMO

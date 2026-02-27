@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000017239,2024-07-11 11:46:48,,LN101736,CU901736,PAYMENT,8,9665968.0,405680.68,6420522.56,0.2197,12,10,DELINQUENT,AGENTE,ANTIOQUIA,CONSUMO

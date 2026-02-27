@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000010706,2025-02-16 12:10:11,2025-02-16,LN101076,CU901076,PAYMENT,2,19527955.0,274270.13,18979414.74,0.0809,24,0,ACTIVE,ONLINE,BOGOTA,LIBRANZA

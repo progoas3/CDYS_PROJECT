@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000010981,2024-07-16 02:50:30,2024-07-16,LN101105,CU901105,PAYMENT,6,21643372.0,1911975.48,10171519.12,0.2417,6,283,DELINQUENT,AGENTE,ATLANTICO,MICROCREDITO

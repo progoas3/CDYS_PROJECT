@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000018196,2024-09-09 10:34:55,,LN101837,CU901837,DISBURSEMENT,4,26267684.0,536648.78,24121088.88,0.2086,24,9,DELINQUENT,APP,BOGOTA,MICROCREDITO

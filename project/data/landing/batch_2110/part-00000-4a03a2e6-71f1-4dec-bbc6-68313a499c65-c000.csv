@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000019177,2024-07-31 08:21:07,2024-08-01,LN101935,CU901935,DISBURSEMENT,0,25895226.0,649970.17,25895226.0,0.1765,18,0,ACTIVE,ONLINE,CALDAS,VEHICULO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000009597,2025-08-14 13:06:08,,LN100965,CU900965,PAYMENT,5,28301409.0,215232.22,27225247.9,0.1042,48,0,ACTIVE,ONLINE,ATLANTICO,LIBRANZA

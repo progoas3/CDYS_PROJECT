@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000004599,2024-05-20 20:12:52,2024-05-21,LN100461,CU900461,PAYMENT,9,1278303.0,50000.0,828303.0,0.2598,18,0,ACTIVE,AGENTE,SANTANDER,VEHICULO

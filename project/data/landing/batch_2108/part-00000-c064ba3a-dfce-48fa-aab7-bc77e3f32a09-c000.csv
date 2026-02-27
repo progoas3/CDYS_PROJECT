@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000017580,2023-07-09 22:55:37,2023-07-10,LN101775,CU901775,PAYMENT,4,5653290.0,81916.17,5325625.32,0.0898,24,0,ACTIVE,ONLINE,ANTIOQUIA,VEHICULO

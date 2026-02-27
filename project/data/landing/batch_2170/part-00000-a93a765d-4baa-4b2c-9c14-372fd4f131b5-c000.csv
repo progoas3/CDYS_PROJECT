@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000003795,2023-05-24 04:52:53,2023-05-25,LN100379,CU900379,PAYMENT,4,27239593.0,2667845.74,16568210.04,0.2897,6,0,ACTIVE,OFFLINE,CALDAS,CONSUMO

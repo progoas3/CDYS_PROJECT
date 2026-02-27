@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000010623,2023-10-01 04:14:36,2023-10-01,LN101068,CU901068,PAYMENT,5,19034929.0,326639.38,17401732.1,0.1432,24,0,ACTIVE,ONLINE,BOLIVAR,VEHICULO

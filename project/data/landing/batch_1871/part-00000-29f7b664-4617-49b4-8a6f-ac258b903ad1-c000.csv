@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005150,2026-02-04 20:26:41,2026-02-05,LN100516,CU900516,PAYMENT,5,26789381.0,197973.53,25799513.35,0.0956,48,309,DELINQUENT,APP,ATLANTICO,CONSUMO

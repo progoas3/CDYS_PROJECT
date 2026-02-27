@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000015713,2024-08-12 14:14:40,2024-08-13,LN101581,CU901581,PAYMENT,4,16434839.0,505973.91,14410943.36,0.2618,18,0,ACTIVE,ONLINE,ANTIOQUIA,CONSUMO

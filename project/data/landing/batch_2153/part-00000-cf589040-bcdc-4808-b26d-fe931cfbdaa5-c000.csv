@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000004111,2025-06-25 10:44:57,2025-06-25,LN100411,CU900411,DELINQUENCY,1,3998070.0,129137.66,3868932.34,0.123,12,38,DELINQUENT,OFFLINE,SANTANDER,LIBRANZA

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000018756,2025-06-28 12:48:42,,LN101893,CU901893,PAYMENT,3,11427710.0,233468.12,10727305.64,0.2086,24,31,DELINQUENT,ONLINE,RISARALDA,CONSUMO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005383,2025-07-23 02:00:12,2025-07-23,LN100540,CU900540,PAYMENT,6,28384807.0,441241.82,25737356.08,0.1109,24,192,DELINQUENT,AGENTE,BOGOTA,CONSUMO

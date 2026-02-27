@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000001786,2025-03-12 02:30:55,2025-03-13,LN100180,CU900180,DISBURSEMENT,0,10899119.0,581903.96,10899119.0,0.3339,12,0,ACTIVE,AGENTE,BOLIVAR,CONSUMO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000017977,2025-11-26 13:12:06,2025-11-26,LN101814,CU901814,PAYMENT,4,28470395.0,350470.56,27068512.76,0.1693,36,5,DELINQUENT,AGENTE,ATLANTICO,VEHICULO

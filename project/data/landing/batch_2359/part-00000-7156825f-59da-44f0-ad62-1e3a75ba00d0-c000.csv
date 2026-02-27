@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016607,2026-08-09 01:10:32,2026-08-09,LN101672,CU901672,DELINQUENCY,7,15453319.0,480289.15,12091294.95,0.1108,12,85,DELINQUENT,ONLINE,CALDAS,MICROCREDITO

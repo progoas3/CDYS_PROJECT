@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000007319,2025-08-05 06:51:41,,LN100732,CU900732,PAYMENT,6,11917860.0,328456.22,9947122.68,0.2134,18,0,ACTIVE,AGENTE,BOGOTA,LIBRANZA

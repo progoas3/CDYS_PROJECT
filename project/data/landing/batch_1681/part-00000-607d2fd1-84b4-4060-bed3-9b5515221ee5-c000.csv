@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000003633,2026-07-15 19:47:15,2026-07-15,LN100362,CU900362,PAYMENT,9,7351363.0,260679.33,5005249.03,0.1546,12,11,DELINQUENT,AGENTE,CUNDINAMARCA,CONSUMO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000003545,2025-07-17 20:34:59,2025-07-18,LN100354,CU900354,PAYMENT,3,23677683.0,630063.14,21787493.58,0.3322,24,21,DELINQUENT,ONLINE,CALDAS,LIBRANZA

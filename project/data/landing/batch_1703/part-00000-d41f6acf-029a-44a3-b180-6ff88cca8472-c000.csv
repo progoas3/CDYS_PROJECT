@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000000589,2024-05-03 14:49:06,2024-05-04,LN100060,CU900060,PAYMENT,1,15944854.0,396282.77,15548571.23,0.1728,18,0,ACTIVE,OFFLINE,CALDAS,MICROCREDITO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000018086,2024-03-07 21:41:38,2024-03-07,LN101824,CU901824,DELINQUENCY,8,29916847.0,1620595.6,16952082.2,0.3417,12,17,DELINQUENT,ONLINE,CALDAS,LIBRANZA

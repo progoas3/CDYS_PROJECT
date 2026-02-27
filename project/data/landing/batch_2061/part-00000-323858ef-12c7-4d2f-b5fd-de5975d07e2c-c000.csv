@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000017667,2024-01-07 07:36:05,2024-01-08,LN101785,CU901785,DISBURSEMENT,0,22281032.0,2380951.08,22281032.0,0.3343,6,0,ACTIVE,OFFLINE,BOGOTA,CONSUMO

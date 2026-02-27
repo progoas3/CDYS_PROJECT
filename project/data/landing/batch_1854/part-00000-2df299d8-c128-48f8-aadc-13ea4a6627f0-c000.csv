@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000009520,2024-01-28 19:50:06,,LN100958,CU900958,DISBURSEMENT,0,25293839.0,442979.43,25293839.0,0.3254,36,0,ACTIVE,ONLINE,CUNDINAMARCA,CONSUMO

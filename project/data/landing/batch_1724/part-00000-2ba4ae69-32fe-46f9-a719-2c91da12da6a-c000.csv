@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005921,2026-03-30 18:17:59,2026-03-31,LN100591,CU900591,PAYMENT,8,16070264.0,247080.31,14093621.52,0.1075,24,23,DELINQUENT,ONLINE,BOGOTA,CONSUMO

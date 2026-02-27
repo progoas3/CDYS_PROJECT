@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005540,2024-02-08 20:14:06,2024-02-08,LN100554,CU900554,PAYMENT,5,4732990.0,105324.8,0.0,0.1338,18,0,ACTIVE,ONLINE,ATLANTICO,VEHICULO

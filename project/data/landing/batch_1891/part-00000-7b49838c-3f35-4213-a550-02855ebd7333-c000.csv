@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000006179,2026-02-06 15:24:47,,LN100618,CU900618,PAYMENT,2,21893391.0,647606.51,20598177.98,0.2437,18,0,ACTIVE,ONLINE,SANTANDER,CONSUMO

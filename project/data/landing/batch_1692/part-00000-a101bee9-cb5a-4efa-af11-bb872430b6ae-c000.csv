@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000009147,2024-03-13 12:09:03,2024-03-13,LN100919,CU900919,PAYMENT,1,25036382.0,979423.26,24056958.74,0.1912,12,38,DELINQUENT,ONLINE,BOGOTA,VEHICULO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005616,2025-04-06 18:13:15,,LN100563,CU900563,DISBURSEMENT,0,12170258.0,186509.2,12170258.0,0.1065,24,0,ACTIVE,AGENTE,NARINO,CONSUMO

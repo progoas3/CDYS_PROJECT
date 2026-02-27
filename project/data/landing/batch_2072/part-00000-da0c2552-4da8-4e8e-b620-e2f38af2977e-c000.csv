@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013749,2025-02-27 19:46:18,2025-02-28,LN101381,CU901381,DISBURSEMENT,0,2683911.0,109718.28,2683911.0,0.2088,12,0,ACTIVE,OFFLINE,BOGOTA,VEHICULO

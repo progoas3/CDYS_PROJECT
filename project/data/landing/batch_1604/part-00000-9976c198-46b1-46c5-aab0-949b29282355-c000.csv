@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000002383,2024-05-27 08:56:44,2024-05-27,LN100237,CU900237,PAYMENT,5,21876874.0,537587.72,0.0,0.1686,18,28,DELINQUENT,AGENTE,ATLANTICO,CONSUMO

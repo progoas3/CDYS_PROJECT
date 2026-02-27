@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013648,2025-04-09 19:37:30,,LN101371,CU901371,DELINQUENCY,6,1611000.0,50000.0,1311000.0,0.2193,24,44,DELINQUENT,OFFLINE,RISARALDA,MICROCREDITO

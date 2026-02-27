@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000004348,2023-08-24 16:36:32,2023-08-25,LN100434,CU900434,PAYMENT,8,21518254.0,226515.49,19706130.08,0.1158,36,224,DELINQUENT,AGENTE,NARINO,CONSUMO

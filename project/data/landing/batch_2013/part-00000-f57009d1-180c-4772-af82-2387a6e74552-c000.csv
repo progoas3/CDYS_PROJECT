@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005394,2025-07-02 10:03:30,2025-07-02,LN100541,CU900541,PAYMENT,5,26574724.0,1260970.65,20269870.75,0.2745,12,0,ACTIVE,ONLINE,ANTIOQUIA,LIBRANZA

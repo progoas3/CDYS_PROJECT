@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000011229,2023-08-12 07:20:52,,LN101129,CU901129,PAYMENT,7,7818794.0,135291.2,6871755.6,0.3191,36,66,DELINQUENT,AGENTE,BOGOTA,CONSUMO

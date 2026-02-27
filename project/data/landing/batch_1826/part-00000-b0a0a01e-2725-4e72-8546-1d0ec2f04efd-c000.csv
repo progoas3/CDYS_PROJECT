@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000010530,2024-12-09 13:31:59,2024-12-09,LN101058,CU901058,DISBURSEMENT,0,13223458.0,232336.16,13223458.0,0.1514,24,0,ACTIVE,AGENTE,RISARALDA,CONSUMO

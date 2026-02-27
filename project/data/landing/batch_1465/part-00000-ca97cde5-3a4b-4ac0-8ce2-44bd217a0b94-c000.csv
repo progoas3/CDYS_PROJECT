@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000002529,2023-02-10 00:45:21,2023-02-11,LN100252,CU900252,DISBURSEMENT,0,14399270.0,1039627.29,14399270.0,0.161,6,0,ACTIVE,AGENTE,ANTIOQUIA,MICROCREDITO

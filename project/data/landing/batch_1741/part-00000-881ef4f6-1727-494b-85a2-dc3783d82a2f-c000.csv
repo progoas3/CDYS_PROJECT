@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000016061,2024-02-08 09:49:27,2024-02-08,LN101617,CU901617,PAYMENT,7,15243280.0,441851.88,12150316.84,0.2348,18,27,DELINQUENT,APP,CALDAS,CONSUMO

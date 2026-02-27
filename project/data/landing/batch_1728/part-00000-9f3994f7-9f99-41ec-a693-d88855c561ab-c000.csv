@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000004725,2023-09-29 07:33:38,2023-09-30,LN100474,CU900474,DISBURSEMENT,7,17288570.0,236968.67,15629789.31,0.2112,36,32,DELINQUENT,AGENTE,RISARALDA,VEHICULO

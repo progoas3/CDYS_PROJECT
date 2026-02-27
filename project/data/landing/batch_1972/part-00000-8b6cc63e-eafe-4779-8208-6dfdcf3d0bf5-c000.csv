@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000007682,2025-07-21 03:33:45,2025-07-21,LN100769,CU900769,DISBURSEMENT,6,8733105.0,130690.92,7948959.48,0.0993,24,0,ACTIVE,APP,SANTANDER,CONSUMO

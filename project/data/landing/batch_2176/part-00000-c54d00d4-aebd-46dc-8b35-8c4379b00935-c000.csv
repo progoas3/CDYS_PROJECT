@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000015849,2025-01-03 15:26:44,2025-01-03,LN101595,CU901595,PAYMENT,11,11501846.0,114702.16,10240122.24,0.1989,48,23,DELINQUENT,AGENTE,VALLE,CONSUMO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000013155,2025-05-25 21:01:33,2025-05-26,LN101321,CU901321,PAYMENT,5,19739327.0,428738.18,17595636.1,0.1258,18,0,ACTIVE,ONLINE,ANTIOQUIA,MICROCREDITO

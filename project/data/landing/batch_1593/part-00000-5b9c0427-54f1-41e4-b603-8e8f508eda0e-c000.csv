@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000015176,2024-07-09 02:09:49,,LN101530,CU901530,PAYMENT,4,26122411.0,821811.05,22835166.8,0.2719,18,0,ACTIVE,AGENTE,BOGOTA,CONSUMO

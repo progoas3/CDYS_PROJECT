@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000017905,2023-05-23 00:55:30,,LN101807,CU901807,PAYMENT,3,2174048.0,211621.83,1539182.51,0.2867,6,0,ACTIVE,ONLINE,CALDAS,LIBRANZA

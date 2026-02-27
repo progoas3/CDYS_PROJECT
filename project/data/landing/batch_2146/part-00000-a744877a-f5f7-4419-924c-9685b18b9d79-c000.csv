@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005103,2025-11-27 00:56:24,2025-11-27,LN100511,CU900511,PAYMENT,4,21388161.0,373758.11,19893128.56,0.1495,24,0,ACTIVE,OFFLINE,SANTANDER,CONSUMO

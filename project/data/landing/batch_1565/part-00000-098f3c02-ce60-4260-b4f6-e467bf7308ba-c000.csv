@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000016591,2023-07-02 06:39:35,2023-07-02,LN101671,CU901671,CHARGEOFF,5,19565083.0,193156.28,18599301.6,0.1949,48,144,CHARGEOFF,ONLINE,SANTANDER,CONSUMO

@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000000499,2025-08-20 10:58:06,,LN100050,CU900050,PAYMENT,11,11493362.0,500535.92,5987466.88,0.2355,12,0,ACTIVE,ONLINE,ATLANTICO,MICROCREDITO

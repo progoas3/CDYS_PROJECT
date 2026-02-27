@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000019501,2025-10-18 02:08:43,2025-10-19,LN101967,CU901967,DELINQUENCY,1,23759978.0,362696.06,23397281.94,0.1053,24,22,DELINQUENT,APP,VALLE,MICROCREDITO

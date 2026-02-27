@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000011358,2023-06-30 01:34:02,2023-06-30,LN101141,CU901141,DISBURSEMENT,3,11109281.0,264104.64,10316967.08,0.1566,18,42,DELINQUENT,AGENTE,CUNDINAMARCA,VEHICULO

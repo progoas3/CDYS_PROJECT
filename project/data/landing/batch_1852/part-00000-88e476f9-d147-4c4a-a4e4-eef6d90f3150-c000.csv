@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005716,2025-10-09 21:58:27,2025-10-10,LN100572,CU900572,DISBURSEMENT,0,8846476.0,225319.74,8846476.0,0.3094,24,0,ACTIVE,ONLINE,,CONSUMO

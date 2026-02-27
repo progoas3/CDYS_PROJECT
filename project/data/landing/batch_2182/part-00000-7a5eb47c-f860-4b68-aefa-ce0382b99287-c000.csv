@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000002139,2023-09-12 22:48:06,,LN100212,CU900212,PAYMENT,4,17340343.0,829041.8,14024175.8,0.2781,12,48,DELINQUENT,OFFLINE,BOGOTA,LIBRANZA

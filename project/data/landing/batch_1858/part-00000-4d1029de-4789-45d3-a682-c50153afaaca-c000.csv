@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000005509,2026-04-08 19:00:52,2026-04-08,LN100551,CU900551,PAYMENT,8,12081988.0,278671.05,9852619.6,0.2613,24,80,DELINQUENT,OFFLINE,CALDAS,VEHICULO

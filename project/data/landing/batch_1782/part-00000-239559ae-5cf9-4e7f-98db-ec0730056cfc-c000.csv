@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000019749,2025-08-08 13:54:41,2025-08-09,LN101992,CU901992,PAYMENT,7,15244947.0,568636.52,11264491.36,0.173,12,9,DELINQUENT,AGENTE,CUNDINAMARCA,MICROCREDITO

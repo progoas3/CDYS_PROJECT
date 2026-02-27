@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000008874,2024-01-11 19:47:36,,LN100892,CU900892,PAYMENT,11,25740817.0,247819.72,23014800.08,0.1851,48,0,ACTIVE,ONLINE,CUNDINAMARCA,MICROCREDITO

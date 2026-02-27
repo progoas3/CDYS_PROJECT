@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000010478,2023-10-13 04:55:08,2023-10-13,LN101052,CU901052,PAYMENT,7,10744609.0,183804.44,9457977.92,0.3132,36,0,ACTIVE,OFFLINE,BOGOTA,MICROCREDITO

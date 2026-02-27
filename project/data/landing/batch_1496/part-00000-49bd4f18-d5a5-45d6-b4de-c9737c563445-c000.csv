@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000009981,2023-07-09 16:35:49,2023-07-10,LN101003,CU901003,PAYMENT,3,4235402.0,61519.21,4050844.37,0.0905,24,44,DELINQUENT,APP,SANTANDER,MICROCREDITO

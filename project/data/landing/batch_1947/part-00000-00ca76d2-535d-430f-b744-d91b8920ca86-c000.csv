@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000019801,2025-05-09 20:36:56,2025-05-10,LN101997,CU901997,DELINQUENCY,5,18448694.0,1311702.14,11890183.3,0.1555,6,42,DELINQUENT,AGENTE,CUNDINAMARCA,CONSUMO

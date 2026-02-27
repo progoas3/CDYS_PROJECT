@@ -1,2 +1,0 @@
-event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
-EVT000016848,2024-04-27 19:36:56,,LN101697,CU901697,DELINQUENCY,5,27748491.0,422193.29,25637524.55,0.1043,24,23,DELINQUENT,ONLINE,BOGOTA,VEHICULO
