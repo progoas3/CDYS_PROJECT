@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000007058,2024-07-07 22:04:15,2024-07-07,LN100707,CU900707,PAYMENT,6,12133039.0,90815.8,11588144.2,0.0994,48,18,DELINQUENT,ONLINE,VALLE,VEHICULO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000006928,2025-06-05 16:04:40,2025-06-06,LN100693,CU900693,PAYMENT,6,8568160.0,233910.77,7164695.38,0.346,24,0,ACTIVE,ONLINE,RISARALDA,VEHICULO

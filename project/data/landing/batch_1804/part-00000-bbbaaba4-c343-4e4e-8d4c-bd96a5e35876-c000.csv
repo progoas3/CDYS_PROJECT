@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000011475,2025-03-22 21:09:25,2025-03-22,LN101152,CU901152,DISBURSEMENT,1,1647456.0,50000.0,1597456.0,0.2946,24,0,ACTIVE,APP,CALDAS,VEHICULO

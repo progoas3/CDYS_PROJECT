@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000009086,2023-10-19 12:15:14,2023-10-19,LN100913,CU900913,PAYMENT,1,18903114.0,403959.55,18499154.45,0.2274,24,0,ACTIVE,ONLINE,SANTANDER,CONSUMO

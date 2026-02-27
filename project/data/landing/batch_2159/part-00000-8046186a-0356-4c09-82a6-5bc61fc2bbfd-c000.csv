@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000002746,2024-04-26 11:40:29,2024-04-26,LN100273,CU900273,PAYMENT,1,2437689.0,62685.17,2375003.83,0.3143,24,0,ACTIVE,APP,NARINO,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000007665,2023-06-05 00:31:01,2023-06-05,LN100768,CU900768,DISBURSEMENT,0,3763200.0,50000.0,3763200.0,0.1977,36,0,ACTIVE,ONLINE,BOGOTA,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000009052,2024-07-31 06:39:49,2024-08-01,LN100910,CU900910,DISBURSEMENT,0,25448767.0,418292.9,25448767.0,0.2931,36,0,ACTIVE,OFFLINE,RISARALDA,LIBRANZA

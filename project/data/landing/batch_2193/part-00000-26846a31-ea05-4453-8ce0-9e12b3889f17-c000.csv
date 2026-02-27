@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016007,2023-09-06 00:04:29,2023-09-07,LN101612,CU901612,DISBURSEMENT,0,19678172.0,479065.1,19678172.0,0.2869,24,0,ACTIVE,OFFLINE,SANTANDER,MICROCREDITO

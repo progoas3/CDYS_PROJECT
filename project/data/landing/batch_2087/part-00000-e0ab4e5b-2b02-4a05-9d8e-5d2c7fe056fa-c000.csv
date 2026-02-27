@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000001416,2026-07-07 03:22:00,,LN100143,CU900143,PAYMENT,10,16054339.0,347496.17,12579377.3,0.2329,24,53,DELINQUENT,ONLINE,BOGOTA,LIBRANZA

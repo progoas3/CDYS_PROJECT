@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000019446,2024-06-22 19:56:11,2024-06-22,LN101962,CU901962,PAYMENT,3,18652714.0,413437.41,17412401.77,0.2433,24,25,DELINQUENT,OFFLINE,CALDAS,MICROCREDITO

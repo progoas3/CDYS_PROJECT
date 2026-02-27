@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000000909,2024-12-21 11:28:54,2024-12-21,LN100093,CU900093,PAYMENT,5,1419759.0,50000.0,1169759.0,0.2952,24,19,DELINQUENT,ONLINE,RISARALDA,LIBRANZA

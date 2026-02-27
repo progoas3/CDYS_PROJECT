@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000003602,2025-02-11 12:44:45,2025-02-12,LN100360,CU900360,DISBURSEMENT,0,16975463.0,528615.92,16975463.0,0.2671,18,0,ACTIVE,ONLINE,VALLE,MICROCREDITO

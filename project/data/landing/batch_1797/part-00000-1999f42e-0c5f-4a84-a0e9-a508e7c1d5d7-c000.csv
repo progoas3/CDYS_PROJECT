@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000018169,2024-01-28 08:40:18,,LN101834,CU901834,PAYMENT,4,19252678.0,1081615.45,14926216.2,0.0809,6,0,ACTIVE,AGENTE,BOGOTA,VEHICULO

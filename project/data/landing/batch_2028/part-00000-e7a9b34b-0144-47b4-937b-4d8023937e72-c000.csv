@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000013472,2025-04-16 11:48:35,2025-04-17,LN101353,CU901353,DELINQUENCY,7,4523047.0,63684.5,4077255.5,0.0816,24,15,DELINQUENT,OFFLINE,CUNDINAMARCA,MICROCREDITO

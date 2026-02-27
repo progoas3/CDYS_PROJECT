@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000002821,2024-10-15 06:06:07,2024-10-15,LN100281,CU900281,DISBURSEMENT,0,26935499.0,1202939.39,26935499.0,0.2466,12,0,ACTIVE,ONLINE,BOLIVAR,LIBRANZA

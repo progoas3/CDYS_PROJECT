@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000018243,2026-01-04 04:14:01,2026-01-04,LN101842,CU901842,CHARGEOFF,1,15687329.0,860136.25,14827192.75,0.3483,12,285,CHARGEOFF,ONLINE,NARINO,MICROCREDITO

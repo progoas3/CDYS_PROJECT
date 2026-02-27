@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000003345,2024-11-13 05:17:23,2024-11-14,LN100335,CU900335,PAYMENT,2,26679194.0,676584.36,25326025.28,0.1804,18,0,ACTIVE,ONLINE,RISARALDA,MICROCREDITO

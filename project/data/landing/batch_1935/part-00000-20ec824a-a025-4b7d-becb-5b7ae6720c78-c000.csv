@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000014991,2024-04-17 13:19:28,2024-04-17,LN101510,CU901510,PAYMENT,7,23847623.0,384423.68,21156657.24,0.1224,24,0,ACTIVE,ONLINE,BOGOTA,VEHICULO

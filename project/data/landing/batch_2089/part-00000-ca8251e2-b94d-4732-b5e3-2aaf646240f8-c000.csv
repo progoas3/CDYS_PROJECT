@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000018285,2025-09-06 23:49:25,2025-09-07,LN101846,CU901846,DISBURSEMENT,4,9892987.0,142162.22,9324338.12,0.0874,24,0,ACTIVE,AGENTE,ATLANTICO,CONSUMO

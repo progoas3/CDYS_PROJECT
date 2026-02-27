@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000013526,2024-08-19 22:56:20,2024-08-19,LN101358,CU901358,DISBURSEMENT,10,21062601.0,697312.51,14089475.9,0.2966,18,0,ACTIVE,ONLINE,ANTIOQUIA,VEHICULO

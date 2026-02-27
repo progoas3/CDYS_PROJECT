@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000008958,2025-10-28 03:45:51,,LN100901,CU900901,DELINQUENCY,0,2392147.0,50000.0,2392147.0,0.123,24,31,DELINQUENT,ONLINE,NARINO,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000000920,2025-01-06 22:43:14,2025-01-07,LN100095,CU900095,DELINQUENCY,1,1944005.0,50000.0,1894005.0,0.1745,36,39,DELINQUENT,ONLINE,BOGOTA,MICROCREDITO

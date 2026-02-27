@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017449,2024-11-05 05:59:01,2024-11-05,LN101761,CU901761,DISBURSEMENT,0,18189855.0,1143778.08,18189855.0,0.1144,6,0,ACTIVE,AGENTE,RISARALDA,CONSUMO

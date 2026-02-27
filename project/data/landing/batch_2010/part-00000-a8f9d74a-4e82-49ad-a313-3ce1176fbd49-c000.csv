@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016901,2025-01-20 11:29:28,2025-01-21,LN101701,CU901701,PAYMENT,6,14620546.0,384081.74,12316055.56,0.3254,24,104,DELINQUENT,AGENTE,ANTIOQUIA,MICROCREDITO

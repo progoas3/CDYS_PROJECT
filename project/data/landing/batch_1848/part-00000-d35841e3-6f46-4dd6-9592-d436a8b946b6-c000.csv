@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000014477,2026-02-28 21:47:28,2026-03-01,LN101457,CU901457,PAYMENT,7,20795240.0,275640.91,18865753.63,0.3302,48,93,DELINQUENT,ONLINE,SANTANDER,LIBRANZA

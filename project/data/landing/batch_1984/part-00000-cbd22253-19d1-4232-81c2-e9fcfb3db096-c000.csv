@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000005866,2026-06-13 14:27:51,2026-06-14,LN100586,CU900586,PAYMENT,8,20769931.0,994256.6,12815878.2,0.2787,12,0,ACTIVE,APP,,CONSUMO

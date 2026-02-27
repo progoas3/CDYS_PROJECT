@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000010399,2025-04-21 17:18:36,2025-04-22,LN101043,CU901043,PAYMENT,8,19475440.0,1094519.73,10719282.16,0.081,6,335,DELINQUENT,AGENTE,SANTANDER,CONSUMO

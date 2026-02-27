@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000015236,2025-01-26 14:51:35,2025-01-26,LN101536,CU901536,PAYMENT,1,4033558.0,354872.43,3678685.57,0.2399,6,0,ACTIVE,APP,CALDAS,CONSUMO

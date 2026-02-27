@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000005176,2024-11-01 13:40:21,2024-11-01,LN100519,CU900519,PAYMENT,1,6639722.0,136645.48,6503076.52,0.1087,18,0,ACTIVE,ONLINE,VALLE,VEHICULO

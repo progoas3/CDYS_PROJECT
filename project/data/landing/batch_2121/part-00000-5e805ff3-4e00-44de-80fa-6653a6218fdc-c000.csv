@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000012332,2023-07-30 02:32:01,2023-07-30,LN101240,CU901240,PAYMENT,5,18774054.0,397916.07,16784473.65,0.2239,24,0,ACTIVE,ONLINE,RISARALDA,CONSUMO

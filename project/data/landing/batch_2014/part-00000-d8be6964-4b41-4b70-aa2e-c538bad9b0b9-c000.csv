@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000001262,2024-04-04 06:13:30,,LN100129,CU900129,PAYMENT,3,12488478.0,159228.09,12010793.73,0.31,48,0,ACTIVE,ONLINE,BOGOTA,MICROCREDITO

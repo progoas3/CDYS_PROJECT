@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000011671,2024-08-12 18:13:09,2024-08-12,LN101172,CU901172,PAYMENT,5,25622829.0,930962.79,20968015.05,0.345,18,0,ACTIVE,ONLINE,VALLE,LIBRANZA

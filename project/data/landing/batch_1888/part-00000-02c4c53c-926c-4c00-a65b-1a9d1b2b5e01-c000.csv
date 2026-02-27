@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000001041,2024-06-09 08:29:34,2024-06-10,LN100106,CU900106,PAYMENT,5,13450241.0,266449.27,12117994.65,0.1962,24,0,ACTIVE,OFFLINE,BOGOTA,CONSUMO

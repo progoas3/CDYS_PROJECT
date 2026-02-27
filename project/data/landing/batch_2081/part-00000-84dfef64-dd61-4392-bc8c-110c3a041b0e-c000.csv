@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000013691,2024-11-19 17:06:51,2024-11-19,LN101375,CU901375,PAYMENT,1,17981782.0,541970.91,17439811.09,0.2521,18,49,DELINQUENT,APP,CALDAS,VEHICULO

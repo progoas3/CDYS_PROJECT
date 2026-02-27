@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000006652,2025-07-13 22:38:50,2025-07-13,LN100665,CU900665,PAYMENT,2,18443056.0,877705.04,16687645.92,0.2759,12,17,DELINQUENT,OFFLINE,ATLANTICO,CONSUMO

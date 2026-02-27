@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000012017,2023-06-29 05:30:38,2023-06-29,LN101207,CU901207,CHARGEOFF,6,23878820.0,380071.22,21598392.68,0.2775,36,244,CHARGEOFF,AGENTE,CUNDINAMARCA,CONSUMO

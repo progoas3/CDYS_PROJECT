@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000010824,2025-10-28 08:06:51,,LN101090,CU901090,DISBURSEMENT,0,29168133.0,962159.48,29168133.0,0.2948,18,0,ACTIVE,ONLINE,BOLIVAR,CONSUMO

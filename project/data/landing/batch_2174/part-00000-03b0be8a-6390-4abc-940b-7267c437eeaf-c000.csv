@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017328,2025-08-09 03:07:47,,LN101746,CU901746,PAYMENT,4,25590764.0,2324153.19,16294151.24,0.2541,6,3,DELINQUENT,OFFLINE,BOGOTA,CONSUMO

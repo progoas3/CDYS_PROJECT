@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000012749,2023-11-28 13:11:35,2023-11-29,LN101282,CU901282,PAYMENT,3,12403238.0,397771.84,11209922.48,0.1207,12,0,ACTIVE,ONLINE,,CONSUMO

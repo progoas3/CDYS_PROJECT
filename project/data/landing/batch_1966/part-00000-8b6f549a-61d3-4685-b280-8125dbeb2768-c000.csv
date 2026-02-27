@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000009694,2025-03-29 05:22:18,2025-03-29,LN100974,CU900974,PAYMENT,2,20930560.0,309876.94,20310806.12,0.0961,24,0,ACTIVE,ONLINE,CUNDINAMARCA,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000015585,2025-03-31 22:25:51,2025-04-01,LN101568,CU901568,PAYMENT,4,26190919.0,1197448.82,21401123.72,0.2572,12,5,DELINQUENT,ONLINE,ATLANTICO,MICROCREDITO

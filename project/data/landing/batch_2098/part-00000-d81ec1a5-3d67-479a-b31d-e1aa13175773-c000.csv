@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016049,2024-09-03 09:23:00,,LN101616,CU901616,DISBURSEMENT,2,24711967.0,397986.23,23915994.54,0.1221,24,0,ACTIVE,ONLINE,CALDAS,LIBRANZA
