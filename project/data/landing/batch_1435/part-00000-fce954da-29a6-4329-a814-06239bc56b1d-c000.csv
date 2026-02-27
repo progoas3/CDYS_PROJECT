@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000013751,2025-05-02 20:37:55,2025-05-02,LN101381,CU901381,PAYMENT,2,2683911.0,109718.28,2464474.44,0.2088,12,0,ACTIVE,OFFLINE,BOGOTA,VEHICULO
