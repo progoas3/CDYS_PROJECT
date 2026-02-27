@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000014863,2025-08-03 14:20:29,2025-08-03,LN101495,CU901495,PAYMENT,5,2001938.0,50000.0,1751938.0,0.1612,36,34,DELINQUENT,ONLINE,ATLANTICO,CONSUMO

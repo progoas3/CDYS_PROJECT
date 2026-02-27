@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016138,2025-04-23 03:02:55,2025-04-24,LN101626,CU901626,PAYMENT,4,15024562.0,374937.94,13524810.24,0.2991,24,6,DELINQUENT,ONLINE,BOLIVAR,VEHICULO

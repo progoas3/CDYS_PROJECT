@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000012596,2026-04-29 07:51:13,2026-04-30,LN101266,CU901266,PAYMENT,7,13558007.0,205742.76,12117807.68,0.1035,24,258,DELINQUENT,OFFLINE,VALLE,VEHICULO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017823,2024-11-10 01:18:09,2024-11-10,LN101799,CU901799,PAYMENT,3,19768917.0,386877.71,18608283.87,0.1914,24,0,ACTIVE,ONLINE,ANTIOQUIA,MICROCREDITO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000009805,2024-01-26 04:27:08,2024-01-26,LN100985,CU900985,PAYMENT,10,24679705.0,298809.53,21691609.7,0.2843,48,3,DELINQUENT,OFFLINE,BOLIVAR,CONSUMO

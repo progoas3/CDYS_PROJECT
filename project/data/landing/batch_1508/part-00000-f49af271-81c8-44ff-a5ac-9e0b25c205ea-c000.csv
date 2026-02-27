@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000003255,2026-05-27 08:48:06,2026-05-28,LN100325,CU900325,DELINQUENCY,9,23656579.0,727045.53,17113169.23,0.261,18,28,DELINQUENT,ONLINE,BOGOTA,CONSUMO

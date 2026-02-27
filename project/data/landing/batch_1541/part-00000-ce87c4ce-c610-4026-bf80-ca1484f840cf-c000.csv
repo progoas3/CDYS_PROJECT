@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000003293,2025-04-03 17:05:38,2025-04-03,LN100329,CU900329,PAYMENT,2,1740348.0,55111.02,1630125.96,0.275,18,0,ACTIVE,ONLINE,CUNDINAMARCA,LIBRANZA

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000013494,2024-11-22 20:33:32,2024-11-23,LN101355,CU901355,DELINQUENCY,10,10731733.0,265825.03,8073482.7,0.2954,24,26,DELINQUENT,OFFLINE,CUNDINAMARCA,LIBRANZA

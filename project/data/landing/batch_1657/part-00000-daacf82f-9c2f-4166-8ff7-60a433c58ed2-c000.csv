@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016659,2025-06-04 15:36:55,2025-06-05,LN101677,CU901677,PAYMENT,5,17788779.0,570308.25,14937237.75,0.1206,12,46,DELINQUENT,OFFLINE,BOGOTA,VEHICULO

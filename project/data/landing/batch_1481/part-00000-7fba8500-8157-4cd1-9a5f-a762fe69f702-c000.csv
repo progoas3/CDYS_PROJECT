@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000002511,2024-10-05 01:48:19,2024-10-06,LN100250,CU900250,PAYMENT,7,5205709.0,210466.81,3732441.33,0.2043,12,0,ACTIVE,AGENTE,ANTIOQUIA,VEHICULO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017505,2024-08-16 18:55:09,2024-08-16,LN101767,CU901767,PAYMENT,7,25289436.0,1119563.33,17452492.69,0.2427,12,0,ACTIVE,ONLINE,NARINO,VEHICULO

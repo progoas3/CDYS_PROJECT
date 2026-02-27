@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000003641,2026-05-21 06:36:16,2026-05-22,LN100363,CU900363,PAYMENT,5,23091736.0,292572.3,21628874.5,0.1801,36,0,ACTIVE,OFFLINE,CUNDINAMARCA,MICROCREDITO

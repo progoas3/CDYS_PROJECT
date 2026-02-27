@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000002306,2024-09-08 14:15:37,,LN100229,CU900229,PAYMENT,5,20312484.0,210979.0,19257589.0,0.1116,36,98,DELINQUENT,ONLINE,,CONSUMO

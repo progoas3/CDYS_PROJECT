@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000009877,2025-04-04 15:32:45,2025-04-04,LN100992,CU900992,PAYMENT,7,11338109.0,166783.58,10170623.94,0.0942,24,136,DELINQUENT,ONLINE,VALLE,MICROCREDITO

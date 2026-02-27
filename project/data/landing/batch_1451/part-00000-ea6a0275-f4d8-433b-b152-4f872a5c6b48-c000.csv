@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000014744,2024-03-30 01:07:48,2024-03-31,LN101482,CU901482,DELINQUENCY,3,1243110.0,50000.0,1093110.0,0.1379,24,31,DELINQUENT,OFFLINE,BOGOTA,MICROCREDITO

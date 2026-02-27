@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016531,2023-10-24 01:15:12,2023-10-25,LN101665,CU901665,DISBURSEMENT,6,6280436.0,59098.9,5925842.6,0.0823,36,0,ACTIVE,OFFLINE,VALLE,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000013149,2024-01-15 22:14:04,2024-01-15,LN101320,CU901320,DELINQUENCY,10,2008126.0,50000.0,1508126.0,0.2326,36,59,DELINQUENT,AGENTE,ATLANTICO,CONSUMO

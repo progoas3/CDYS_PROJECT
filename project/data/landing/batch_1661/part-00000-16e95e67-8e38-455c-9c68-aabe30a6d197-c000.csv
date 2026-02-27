@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000011374,2023-12-02 02:54:35,,LN101142,CU901142,DISBURSEMENT,10,20863642.0,301896.9,17844673.0,0.0894,24,25,DELINQUENT,APP,ANTIOQUIA,MICROCREDITO

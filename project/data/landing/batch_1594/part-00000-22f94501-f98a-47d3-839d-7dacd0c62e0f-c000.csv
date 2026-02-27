@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000000566,2025-03-08 03:27:16,2025-03-09,LN100057,CU900057,DELINQUENCY,5,27639414.0,1234099.84,21468914.8,0.2465,12,18,DELINQUENT,OFFLINE,BOGOTA,LIBRANZA

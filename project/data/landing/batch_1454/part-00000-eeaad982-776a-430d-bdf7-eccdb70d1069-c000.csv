@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000005943,2025-03-28 09:34:46,2025-03-29,LN100594,CU900594,PAYMENT,3,26715998.0,298328.64,25821012.08,0.135,36,1,DELINQUENT,APP,CUNDINAMARCA,VEHICULO

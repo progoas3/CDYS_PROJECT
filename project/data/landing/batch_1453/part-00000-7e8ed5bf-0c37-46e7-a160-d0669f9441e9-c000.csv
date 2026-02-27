@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016117,2023-12-31 14:37:32,2023-12-31,LN101624,CU901624,PAYMENT,4,15877163.0,165360.65,15215720.4,0.2166,48,0,ACTIVE,ONLINE,BOGOTA,CONSUMO

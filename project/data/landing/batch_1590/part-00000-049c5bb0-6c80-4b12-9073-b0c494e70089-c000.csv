@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000015910,2023-12-06 11:09:05,2023-12-07,LN101602,CU901602,CHARGEOFF,3,24624303.0,491870.45,23148691.65,0.1995,24,338,CHARGEOFF,ONLINE,BOGOTA,CONSUMO

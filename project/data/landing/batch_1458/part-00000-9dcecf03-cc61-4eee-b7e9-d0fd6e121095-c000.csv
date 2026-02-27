@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000004702,2025-08-25 11:28:30,2025-08-26,LN100472,CU900472,DELINQUENCY,3,4125664.0,75499.65,3899165.05,0.166,24,26,DELINQUENT,ONLINE,RISARALDA,VEHICULO

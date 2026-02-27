@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000010929,2026-05-07 21:44:06,2026-05-08,LN101100,CU901100,DELINQUENCY,6,16573880.0,558539.76,13222641.44,0.137,12,58,DELINQUENT,ONLINE,CALDAS,CONSUMO

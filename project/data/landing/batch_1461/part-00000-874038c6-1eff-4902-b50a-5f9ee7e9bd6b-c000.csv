@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000004956,2025-06-09 01:13:12,2025-06-09,LN100497,CU900497,PAYMENT,1,29724039.0,486879.76,29237159.24,0.1276,24,0,ACTIVE,AGENTE,BOLIVAR,CONSUMO

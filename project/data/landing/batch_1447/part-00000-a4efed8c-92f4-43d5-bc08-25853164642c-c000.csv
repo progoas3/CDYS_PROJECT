@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000003115,2024-11-20 08:11:09,2024-11-20,LN100310,CU900310,PAYMENT,8,27896925.0,998895.89,19905757.88,0.3371,18,0,ACTIVE,OFFLINE,CALDAS,VEHICULO

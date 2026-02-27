@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000008305,2026-01-11 01:18:02,2026-01-11,LN100831,CU900831,PAYMENT,5,5599578.0,198187.73,4608639.35,0.3309,18,0,ACTIVE,ONLINE,ATLANTICO,CONSUMO

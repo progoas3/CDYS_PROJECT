@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000010064,2025-07-19 23:17:18,2025-07-19,LN101010,CU901010,PAYMENT,11,29331642.0,878971.54,19662955.06,0.2495,18,6,DELINQUENT,ONLINE,NARINO,VEHICULO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000016366,2025-08-30 19:12:19,2025-08-30,LN101647,CU901647,PAYMENT,9,19071915.0,372760.58,15717069.78,0.1909,24,137,DELINQUENT,AGENTE,BOGOTA,LIBRANZA

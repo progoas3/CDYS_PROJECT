@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017814,2025-01-21 22:53:13,2025-01-21,LN101798,CU901798,PAYMENT,6,23620038.0,613766.69,19937437.86,0.3197,24,37,DELINQUENT,AGENTE,BOLIVAR,MICROCREDITO

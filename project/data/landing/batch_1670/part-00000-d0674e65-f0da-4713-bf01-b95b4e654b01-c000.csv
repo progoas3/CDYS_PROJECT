@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000005755,2024-05-10 09:43:12,2024-05-10,LN100576,CU900576,DISBURSEMENT,0,26488836.0,543904.1,26488836.0,0.108,18,0,ACTIVE,ONLINE,SANTANDER,CONSUMO

@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000006242,2024-11-10 21:42:31,2024-11-11,LN100624,CU900624,CLOSE,0,12164759.0,327901.08,0.0,0.3391,24,0,CLOSED,AGENTE,RISARALDA,CONSUMO

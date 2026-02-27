@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000017143,2024-07-26 04:48:24,2024-07-26,LN101726,CU901726,DELINQUENCY,1,17457047.0,325137.5,17131909.5,0.1725,24,26,DELINQUENT,ONLINE,SANTANDER,CONSUMO

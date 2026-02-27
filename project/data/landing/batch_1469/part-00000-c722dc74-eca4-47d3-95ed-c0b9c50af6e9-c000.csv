@@ -1,0 +1,2 @@
+event_id,event_time,ingestion_date,loan_id,customer_id,event_type,installment_number,principal_amount,installment_amount,outstanding_balance,interest_rate,term_months,days_past_due,loan_status,channel,region,product_type
+EVT000015593,2024-01-25 19:21:09,,LN101569,CU901569,PAYMENT,3,11258086.0,323707.5,10286963.5,0.2313,18,48,DELINQUENT,ONLINE,NARINO,LIBRANZA

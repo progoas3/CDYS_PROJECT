@@ -1,21 +1,20 @@
-📊 Pipeline Medallion: Credit Event Processing
-Este proyecto implementa una arquitectura de datos tipo Medallion (Bronze, Silver, Gold) utilizando PySpark. El sistema simula la ingesta de eventos de crédito en tiempo real (Streaming) y procesa los datos a través de diferentes capas para generar métricas de riesgo y un reporte final de consistencia.
+# 📊 Pipeline Medallion: Credit Event Processing
 
-🏗️ Arquitectura del Proyecto
+Este proyecto implementa una arquitectura de datos tipo **Medallion (Bronze, Silver, Gold)** utilizando **PySpark**. El sistema simula la ingesta de eventos de crédito en tiempo real (Streaming) y procesa los datos a través de diferentes capas para generar métricas de riesgo y un reporte final de consistencia.
+
+## 🏗️ Arquitectura del Proyecto
 El flujo de datos se divide en las siguientes etapas:
 
-Landing (Simulación): Un script genera micro-batches de datos en formato CSV a partir de una fuente maestra.
+* **Landing (Simulación):** Un script genera micro-batches de datos en formato CSV a partir de una fuente maestra.
+* **Bronze (Ingesta):** Captura los datos de Landing, añade metadatos de auditoría (timestamp, archivo origen) y garantiza la idempotencia evitando procesar el mismo batch dos veces.
+* **Silver (Calidad):** Limpia los datos, aplica reglas de negocio, estandariza estados de crédito y separa los registros erróneos en una tabla de **Cuarentena**.
+* **Gold (Negocio):** Enriquece la información con datos geográficos y genera tablas agregadas para análisis de riesgos y cohortes.
+* **Reporte:** Genera un dashboard visual en HTML con el resumen del estado de los datos.
 
-Bronze (Ingesta): Captura los datos de Landing, añade metadatos de auditoría (timestamp, archivo origen) y garantiza la idempotencia evitando procesar el mismo batch dos veces.
+---
 
-Silver (Calidad): Limpia los datos, aplica reglas de negocio, estandariza estados de crédito y separa los registros erróneos en una tabla de Cuarentena.
-
-Gold (Negocio): Enriquece la información con datos geográficos y genera tablas agregadas para análisis de riesgos y cohortes.
-
-Reporte: Genera un dashboard visual en HTML con el resumen del estado de los datos.
-
-📂 Estructura de Carpetas
-Plaintext
+## 📂 Estructura de Carpetas
+```plaintext
 project/
 ├── data/                   # Almacenamiento de capas (Parquet/CSV)
 │   ├── raw_input/          # Fuente maestra (.csv)
@@ -31,20 +30,21 @@ project/
 │   └── report.py
 ├── main.py                 # Orquestador del pipeline
 └── report_final.html       # Resultado final visual
-🚀 Instrucciones de Ejecución
+```
+## 🚀 Instrucciones de Ejecución
 Para un funcionamiento óptimo en Windows y para simular un entorno real de streaming, se recomienda ejecutar el sistema en dos terminales:
 
-Paso 1: Iniciar la Ingesta (Terminal 1)
+* **Paso 1:** Iniciar la Ingesta (Terminal 1)
 Este script simula la llegada continua de datos a la carpeta landing.
 
 Bash
 python project/scripts/simulate_streaming.py
-Paso 2: Ejecutar el Pipeline (Terminal 2)
+* **Paso 2:** Ejecutar el Pipeline (Terminal 2)
 Mientras la Terminal 1 está corriendo, ejecuta el orquestador principal que procesará todas las capas de forma lineal:
 
 Bash
 python project/main.py
-🛠️ Tecnologías Utilizadas
+* **🛠️ Tecnologías Utilizadas**
 Lenguaje: Python 3.11+
 
 Procesamiento: Apache Spark (PySpark)
